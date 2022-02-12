@@ -1,0 +1,52 @@
+"username": "AAA",
+"password":"1234",
+
+"Name": "AAA",
+
+"summary":[
+{"Name": "sum1",
+"value": "1000"},
+{"Name": "sum2",
+"value": "1000"},
+{"Name": "sum3",
+"value": "1000"}
+],
+
+"piechart":[
+{"name":"GDP%",
+"data": [
+  {
+    "id": 1,
+    "kind": "SolarSystem",
+    "share": 50
+  },
+  {
+    "id": 2,
+    "kind": "Wind",
+    "share": 20
+  },
+  {
+    "id": 3,
+    "kind": "Geothermal",
+    "share": 100
+  },
+  {
+    "id": 4,
+    "kind": "Natural Gas",
+    "share": 100
+  },
+  {
+    "id": 5,
+    "kind": "Coal",
+    "share": 80
+  },
+  {
+    "id": 6,
+    "kind": "Hydroelectric",
+    "share": 200
+  }
+]
+
+}
+
+]
