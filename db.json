@@ -21,8 +21,7 @@
 }
 ],
 
-"piechart":[
-{"name":"GDP%",
+ 
 "data": [
   {
     "id": 1,
@@ -54,9 +53,7 @@
     "kind": "Hydroelectric",
     "share": 200
   }
-]
 
-}
 
 ]
 }
