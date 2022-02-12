@@ -1,8 +1,10 @@
 {
 "user1" :[
+ {
 "username": "AAA",
 "password":"1234",
 "Name": "AAA"
+ }
 ],
  
 "summary":[
