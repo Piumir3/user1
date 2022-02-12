@@ -4,12 +4,18 @@
 "Name": "AAA",
 
 "summary":[
-{"Name": "sum1",
-"value": "1000"},
-{"Name": "sum2",
-"value": "1000"},
-{"Name": "sum3",
-"value": "1000"}
+{
+ "Name": "sum1",
+"value": "1000"
+},
+{
+ "Name": "sum2",
+"value": "1000"
+},
+{
+ "Name": "sum3",
+"value": "1000"
+}
 ],
 
 "piechart":[
