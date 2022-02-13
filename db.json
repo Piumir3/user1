@@ -22,12 +22,7 @@
 }
 ],
 
- "details":[
-  {
-   "Name": "GDP %",
-   "Title": "Pie Chart"
-  }
- ],
+
  "singleBaChartData": [
     {
       "id": 1,
@@ -61,7 +56,13 @@
     }
   ],
  
-"pieData": [
+"pieData":[
+  
+  {
+   "Name": "GDP %",
+   "Title": "Pie Chart"
+  "data":{
+ 
   {
     "id": 1,
     "kind": "SolarSystem",
@@ -92,7 +93,7 @@
     "kind": "Hydroelectric",
     "share": 200
   }
-
+ }}
 
 ]
 }
