@@ -1,4 +1,4 @@
-{
+ {
 "user1" :[
  {
 "email": "AAA",
@@ -22,7 +22,12 @@
 }
 ],
 
-
+ "details":[
+  {
+   "Name": "GDP %",
+   "Title": "Pie Chart"
+  }
+ ],
  "singleBaChartData": [
     {
       "id": 1,
@@ -56,13 +61,7 @@
     }
   ],
  
-"pieData":[
-  
-  {
-   "Name": "GDP %",
-   "Title": "Pie Chart"
-  "data":{
- 
+"pieData": [
   {
     "id": 1,
     "kind": "SolarSystem",
@@ -93,7 +92,7 @@
     "kind": "Hydroelectric",
     "share": 200
   }
- }}
+
 
 ]
 }
